@@ -265,5 +265,6 @@ $RECYCLE.BIN/
 # End of https://www.toptal.com/developers/gitignore/api/windows,linux,macos,git,python
 
 # Project specific
+# data/ contains fetched GitLab issues (JSON) and downloaded images
 data/
 *.json
