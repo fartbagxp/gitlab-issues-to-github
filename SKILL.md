@@ -2,7 +2,7 @@
 
 ## Project Context
 
-This project pulls information about Gitlab issues from a repository and pushes it back to Github.
+This project pulls information about Gitlab issues from a repository and mirrors the issue to Github.
 
 ## Key Commands
 
@@ -29,7 +29,6 @@ main.py  # Main code
 ## Important Notes
 
 - Always support a CLI interface
-- Use CDC and FDA government resources from .gov domains
 - Use uv best practices
 
 ## Configuration Files
