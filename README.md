@@ -1,10 +1,12 @@
 # Gitlab to Github Issues
 
-This project downloads a set of issues from a Gitlab repositories and migrates it to Github.
+This project downloads a set of issues from a Gitlab repositories and migrates it to Github using a simple python script.
+
+This repository exists because I couldn't find [a practical guide from Github](https://docs.github.com/en/migrations/using-ghe-migrator/about-ghe-migrator) to pull Gitlab issues into Github as a mirror after a code repository migration using `git --mirror`.
 
 ## How to Run
 
-Install `uv`.
+Install [uv](https://github.com/astral-sh/uv?tab=readme-ov-file#installation).
 
 Example Commands:
 
